@@ -1,6 +1,6 @@
 [submodule "cataki-backend"]
 	path = cataki-backend
-	url = https://github.com/Organizacao-do-mal/cataki.git
+	url = https://github.com/Organizacao-do-mal/cataki-backend.git
 [submodule "cataki-frontend"]
 	path = cataki-frontend
-	url = https://github.com/Organizacao-do-mal/cataki.git
+	url = https://github.com/Organizacao-do-mal/cataki-frontend.git
