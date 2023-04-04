@@ -1,0 +1,3 @@
+[submodule "cataki-backend"]
+	path = cataki-backend
+	url = https://github.com/Organizacao-do-mal/cataki.git
